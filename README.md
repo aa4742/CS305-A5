@@ -1,2 +1,11 @@
 # CS305-A5
-CS-305 Module 5 Assignment
+This project is a side-scroller game built for my Virtual Worlds class.
+It is a WIP and being turned as the final project.
+
+## Contributing
+Make a pull request to add yourself as a contributor.
+
+Contributors:
+
+## License
+GNU Public License v3
