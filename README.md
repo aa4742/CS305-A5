@@ -5,7 +5,7 @@ It is a WIP and being turned as the final project.
 ## Contributing
 Make a pull request to add yourself as a contributor.
 
-Contributors:
+Contributors: Ailani Astudillo!
 
 ## License
 GNU Public License v3
